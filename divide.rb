@@ -5,7 +5,7 @@ puts "Enter second value: "
 num2=gets.chomp.to_i
 
 # finding sum 
-div=num1/num2
+div=num2/num1
 
 # printing the result
 puts "The diferece is #{div}"
